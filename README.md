@@ -28,13 +28,4 @@ Sou fascinado por transformar dados em decisões inteligentes. Atualmente, estou
 
 ---
 
-
----
-
-## ✉️ Contato
-📧 [gabriel.nwsj@gmail.com](mailto:gustavojustino@gmail.com)  
-🔮 [LinkedIn](https://www.linkedin.com/in/gabriel-justino-23904b20b/)
-
----
-
 ⭐ _Obrigado por visitar meu perfil! Se gostou dos projetos, deixe uma estrela!_
