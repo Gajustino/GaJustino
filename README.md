@@ -24,4 +24,5 @@ Tenho experiência prévia nas áreas de suporte técnico, rotinas administrativ
 
 ---
 
-⭐ _Obrigado por visitar meu perfil! Se gostou dos projetos, deixe uma estrela!_
+### 🕶 Visitantes
+![Visitantes](https://komarev.com/ghpvc/?username=GabrielJustino&color=0e75b6&style=flat&label=VISITANTES)
