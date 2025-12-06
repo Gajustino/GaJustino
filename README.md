@@ -11,7 +11,7 @@ Tenho experiência prévia nas áreas de suporte técnico, rotinas administrativ
 ---
 
 🎯 **Analista de Dados em formação**  
-🎓 Pós-graduação em Análise de Dados (Andamento)   
+🎓 Pós-graduação em Análise de Dados (Concluído)   
 🎓 Graduação em Logística (Concluído)  
 
 ---
